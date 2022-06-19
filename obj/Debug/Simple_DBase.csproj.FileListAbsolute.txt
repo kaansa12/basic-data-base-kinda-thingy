@@ -1,0 +1,12 @@
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\bin\Debug\Simple_DBase.exe.config
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\bin\Debug\Simple_DBase.exe
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\bin\Debug\Simple_DBase.pdb
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.csproj.AssemblyReference.cache
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.Form1.resources
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.Properties.Resources.resources
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.csproj.GenerateResource.cache
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.csproj.CoreCompileInputs.cache
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.exe
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.pdb
+C:\Users\Kaan\source\repos\Simple_DBase\Simple_DBase\obj\Debug\Simple_DBase.Form2.resources
